@@ -1,0 +1,1 @@
+Learning gsap through trying to recreate the apple landing page
